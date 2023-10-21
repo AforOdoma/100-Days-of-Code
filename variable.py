@@ -8,3 +8,4 @@ pet = input("Write the name of your pet \n")
 print("NAME GENERATED:" + city + pet) 
 #5. Make sure the input cursor shows on a new line
 
+
