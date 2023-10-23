@@ -4,7 +4,7 @@ print("WELCOME TO BAND NAME GENERATOR")
 city = input("Write the name of the city you grew up in \n")
 #3. Ask the user for the name of a pet.
 pet = input("Write the name of your pet \n")
-#4 Combine the name of their city and pet and show them their band name.
+#4. Combine the name of their city and pet and show them their band name.
 print("NAME GENERATED:" + city + pet) 
 #5. Make sure the input cursor shows on a new line
 
